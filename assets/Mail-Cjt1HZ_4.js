@@ -1,0 +1,1 @@
+import{i as r,j as a}from"./index-N2L6V-pB.js";import{r as t}from"./createSvgIcon-BvUIs5gc.js";var e={},i=r;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,u=i(t()),l=a;o=e.default=(0,u.default)((0,l.jsx)("path",{d:"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 4-8 5-8-5V6l8 5 8-5z"}),"Mail");export{o as d};

@@ -1,0 +1,1 @@
+import{r,j as e,n as c,F as n,aU as l}from"./index-N2L6V-pB.js";const x=()=>{const[t,o]=r.useState(!1);console.log({checked:t});const s=a=>{o(a.target.checked)};return e.jsx(c,{children:e.jsx(n,{label:"Dark mode",control:e.jsx(l,{checked:t,onChange:s})})})};export{x as default};

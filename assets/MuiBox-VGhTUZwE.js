@@ -1,0 +1,1 @@
+import{j as o,n as r}from"./index-N2L6V-pB.js";const t=()=>o.jsx(r,{sx:{backgroundColor:"primary.main",color:"white",height:"100px",width:"100px",padding:"16px","&:hover":{backgroundColor:"primary.light"}},children:"Codevolution"});export{t as default};

@@ -1,0 +1,1 @@
+import{j as r,S as i,T as e}from"./index-N2L6V-pB.js";import{L as n}from"./Link-jQ6yTDnh.js";const a=()=>r.jsx("div",{children:r.jsxs(i,{direction:"row",spacing:2,m:4,children:[r.jsx(n,{href:"#",children:"Link"}),r.jsx(e,{variant:"h6",children:r.jsx(n,{href:"#",color:"secondary",underline:"none",children:"Secondary"})})]})});export{a as default};
